@@ -3,4 +3,4 @@
 
  Estou aprendendo a colocar repositórios!
 
-<a href="https://valdirfernandes.github.io/Html-Css/desafio/index">Executar o site
+<a href="valdirfernandes.github.io/Html-Css/desafio/index">Executar o arquivo
